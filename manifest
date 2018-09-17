@@ -2,6 +2,8 @@
 # package set definitions.
 
 package_sets:
+  - github: rock-core/package_set
+  - github: rock-core/rock-package_set
   - github: vbargsten/ct_package_set
   
 layout:
